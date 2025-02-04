@@ -1,4 +1,4 @@
-# maxap
+# Maxap
 
 A new Flutter project.
 
@@ -14,3 +14,15 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Issue Video
+For more details on a specific issue, check the video attached to the issue:  
+[Video for Issue #X](https://github.com/yourusername/maxap/issues/X)
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/maxap.git
+cd maxap
