@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="grocery-bag">
+  <polygon fill="#ab7b2c" points="14 52 12 62 52 62 50 52 52 16 12 16 14 52"></polygon>
+  <path fill="#845f1d" d="M17.4,16H12l2,36L12,62H52l-1.5-7.487A59.987,59.987,0,0,1,17.4,16Z"></path>
+  <polygon fill="#674b18" points="12 16 16.963 11 22.2 11 41 11 47 11 52 16 12 16"></polygon>
+  <rect width="2" height="2" x="32" y="57" fill="#604514"></rect>
+  <path fill="#604514" d="M47.121,59H36V57h9.9L45,52.482a1.017,1.017,0,0,1-.019-.252l.35-6.286,2,.112-.343,6.159L48.1,57.8a1,1,0,0,1-.98,1.2Z"></path>
+  <path fill="#ce7f2b" d="M26,16l-1.97-2a7.1,7.1,0,0,1,0-9.941h0a6.853,6.853,0,0,1,9.794,0L43.676,14A6.808,6.808,0,0,1,45,16Z"></path>
+  <path fill="#975722" d="M31,16l-2.537-2.429a8.628,8.628,0,0,1-.515-11.493,6.851,6.851,0,0,0-3.919,1.981,7.1,7.1,0,0,0,0,9.941L26,16Z"></path>
+  <path fill="#764417" d="M25.029,12.922a7.1,7.1,0,0,1-.655-9.16c-.114.1-.237.187-.345.3a7.1,7.1,0,0,0,0,9.941L26,16h2Z"></path>
+  <path fill="#894f1f" d="M38,12.435a6.571,6.571,0,0,1-8,3.209S33.015,10.5,38,12.435Z"></path>
+  <path fill="#4e2900" d="M30.6,14.814a7.877,7.877,0,0,0-.6.83,6.571,6.571,0,0,0,8-3.209c-.188-.073-.368-.118-.551-.171A6.43,6.43,0,0,1,30.6,14.814Z"></path>
+  <path fill="#894f1f" d="M33,7.435a6.571,6.571,0,0,1-8,3.209S28.015,5.5,33,7.435Z"></path>
+  <path fill="#4e2900" d="M25.6,9.814a7.877,7.877,0,0,0-.6.83,6.571,6.571,0,0,0,8-3.209c-.188-.073-.368-.118-.551-.171A6.43,6.43,0,0,1,25.6,9.814Z"></path>
+  <rect width="2" height="2" x="58" y="17" fill="#fff200"></rect>
+  <rect width="2" height="2" x="56" y="19" fill="#fff200"></rect>
+  <rect width="2" height="2" x="60" y="19" fill="#fff200"></rect>
+  <rect width="2" height="2" x="58" y="21" fill="#fff200"></rect>
+  <polygon fill="#ffcb05" points="58 17 60 19 58 19 58 17"></polygon>
+  <polyline fill="#ffcb05" points="56 21 56 19 58 21"></polyline>
+  <polyline fill="#ffcb05" points="58 23 58 21 60 23"></polyline>
+  <polyline fill="#ffcb05" points="60 21 60 19 62 21"></polyline>
+  <rect width="2" height="2" x="53" y="2" fill="#fff200"></rect>
+  <rect width="2" height="2" x="51" y="4" fill="#fff200"></rect>
+  <rect width="2" height="2" x="55" y="4" fill="#fff200"></rect>
+  <rect width="2" height="2" x="53" y="6" fill="#fff200"></rect>
+  <polygon fill="#ffcb05" points="53 2 55 4 53 4 53 2"></polygon>
+  <polyline fill="#ffcb05" points="51 6 51 4 53 6"></polyline>
+  <polyline fill="#ffcb05" points="53 8 53 6 55 8"></polyline>
+  <polyline fill="#ffcb05" points="55 6 55 4 57 6"></polyline>
+  <rect width="2" height="2" x="4" y="17" fill="#fff200"></rect>
+  <rect width="2" height="2" x="2" y="19" fill="#fff200"></rect>
+  <rect width="2" height="2" x="6" y="19" fill="#fff200"></rect>
+  <rect width="2" height="2" x="4" y="21" fill="#fff200"></rect>
+  <polygon fill="#ffcb05" points="4 17 6 19 4 19 4 17"></polygon>
+  <polyline fill="#ffcb05" points="2 21 2 19 4 21"></polyline>
+  <polyline fill="#ffcb05" points="4 23 4 21 6 23"></polyline>
+  <polyline fill="#ffcb05" points="6 21 6 19 8 21"></polyline>
+  <rect width="2" height="2" x="9" y="2" fill="#fff200"></rect>
+  <rect width="2" height="2" x="7" y="4" fill="#fff200"></rect>
+  <rect width="2" height="2" x="11" y="4" fill="#fff200"></rect>
+  <rect width="2" height="2" x="9" y="6" fill="#fff200"></rect>
+  <polygon fill="#ffcb05" points="9 2 11 4 9 4 9 2"></polygon>
+  <polyline fill="#ffcb05" points="7 6 7 4 9 6"></polyline>
+  <polyline fill="#ffcb05" points="9 8 9 6 11 8"></polyline>
+  <polyline fill="#ffcb05" points="11 6 11 4 13 6"></polyline>
+  <path fill="#4e3911" d="M16.963,11v5H12S16.925,11,16.963,11Z"></path>
+</svg>
